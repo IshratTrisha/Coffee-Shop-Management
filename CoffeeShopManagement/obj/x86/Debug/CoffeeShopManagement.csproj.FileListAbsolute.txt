@@ -1,0 +1,16 @@
+E:\Programming\C#\Desktop Application\Practice\CoffeeCustomerForm\CoffeeCustomerForm\bin\Debug\CoffeeCustomerForm.exe
+E:\Programming\C#\Desktop Application\Practice\CoffeeCustomerForm\CoffeeCustomerForm\bin\Debug\CoffeeCustomerForm.pdb
+E:\Programming\C#\Desktop Application\Practice\CoffeeCustomerForm\CoffeeCustomerForm\obj\x86\Debug\CoffeeCustomerForm.FormCustomer.resources
+E:\Programming\C#\Desktop Application\Practice\CoffeeCustomerForm\CoffeeCustomerForm\obj\x86\Debug\CoffeeCustomerForm.Properties.Resources.resources
+E:\Programming\C#\Desktop Application\Practice\CoffeeCustomerForm\CoffeeCustomerForm\obj\x86\Debug\CoffeeShopManagement.csproj.GenerateResource.Cache
+E:\Programming\C#\Desktop Application\Practice\CoffeeCustomerForm\CoffeeCustomerForm\obj\x86\Debug\CoffeeCustomerForm.exe
+E:\Programming\C#\Desktop Application\Practice\CoffeeCustomerForm\CoffeeCustomerForm\obj\x86\Debug\CoffeeCustomerForm.pdb
+E:\Programming\C#\Desktop Application\Practice\CoffeeCustomerForm\CoffeeCustomerForm\obj\x86\Debug\CoffeeShopManagement.csprojResolveAssemblyReference.cache
+E:\Programming\C#\Desktop Application\Practice\CoffeeShopManagement\CoffeeShopManagement\obj\x86\Debug\CoffeeCustomerForm.exe
+E:\Programming\C#\Desktop Application\Practice\CoffeeShopManagement\CoffeeShopManagement\obj\x86\Debug\CoffeeCustomerForm.pdb
+E:\Programming\C#\Desktop Application\Practice\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\CoffeeCustomerForm.exe
+E:\Programming\C#\Desktop Application\Practice\CoffeeShopManagement\CoffeeShopManagement\bin\Debug\CoffeeCustomerForm.pdb
+E:\Programming\C#\Desktop Application\Practice\CoffeeShopManagement\CoffeeShopManagement\obj\x86\Debug\CoffeeShopManagement.csprojResolveAssemblyReference.cache
+E:\Programming\C#\Desktop Application\Practice\CoffeeShopManagement\CoffeeShopManagement\obj\x86\Debug\CoffeeCustomerForm.FormCustomer.resources
+E:\Programming\C#\Desktop Application\Practice\CoffeeShopManagement\CoffeeShopManagement\obj\x86\Debug\CoffeeCustomerForm.Properties.Resources.resources
+E:\Programming\C#\Desktop Application\Practice\CoffeeShopManagement\CoffeeShopManagement\obj\x86\Debug\CoffeeShopManagement.csproj.GenerateResource.Cache
